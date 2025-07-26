@@ -1,0 +1,7 @@
+[network]
+name = "testnet"
+stacks_node_rpc_address = "https://api.testnet.hiro.so"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = "lion carpet rebel winner night curious solution useless skull term during oven neglect flee doll stairs bike train nest urban goat spy bird club"
